@@ -28,3 +28,9 @@ CLOUDFLARE_ACCOUNT_ID=<account-id> CLOUDFLARE_API_TOKEN=<pages-only-token> \
 ## 内容边界
 
 概念图不是应用截图；目前仅链接仓库、README 和 Issues，不提供未经确认的稳定版下载或完整可用性承诺。本站未声明产品许可；具体以产品仓库为准。
+
+## 团队与产品分站（2026-11-17）
+
+- `public/` → `cordiact-site` → https://cordiact.dev （团队空间）
+- `app-public/` → `cordiact-app` → https://app.cordiact.dev （产品介绍）
+- 同一 main 推送分别发布两个站点，互相独立的静态资源。

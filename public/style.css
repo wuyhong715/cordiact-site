@@ -6,3 +6,5 @@
 
 .headline-line{display:block;white-space:nowrap}@media(max-width:640px){.hero h1{font-size:clamp(43px,12vw,70px);letter-spacing:-2px}.eyebrow{font-size:clamp(7px,2.2vw,9px)}.header .brand{font-size:clamp(16px,5vw,21px)}nav{gap:14px}.diagram-top,.diagram-bottom{left:15px;right:15px}.diagram-bottom{font-size:6px}}
 .button{white-space:nowrap;justify-content:center}@media(max-width:640px){.button{font-size:clamp(11px,3.1vw,13px);gap:10px;padding:14px 12px}.actions{gap:9px}.actions .button{flex:1}}@media(max-width:340px){.actions{flex-direction:column}}
+
+.team-diagram{display:flex;align-items:center;justify-content:center}
